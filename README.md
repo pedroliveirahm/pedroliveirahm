@@ -1,4 +1,4 @@
-### Oii! eu sou o Pedro, tenho 18 anos e sou apaixonado por programação
+### Oii! eu sou o Pedro, futuro desenvolvedor
 
 - 🎓 Atualmente estou graduando em análise e desenvolvimento de sistemas
 - 💣 A linguaguem que estou aprendendo no momento é java.script
