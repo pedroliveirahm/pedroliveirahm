@@ -1,8 +1,7 @@
 ### Oii! eu sou o Pedro, futuro desenvolvedor
 
 - 🎓 Atualmente estou graduando em análise e desenvolvimento de sistemas
-- 💣 A linguaguem que estou aprendendo no momento é java.script
-- 🔥 As linguaguens que eu já tive contato foram: HTML,CSS,Python 
+- 🔥  A linguaguem que estou aprendendo no momento é java.script
 
 <div align="center">
   <a href="https://github.com/pedroliveirahm">
