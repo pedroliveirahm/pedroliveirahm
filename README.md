@@ -13,7 +13,7 @@
     
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
 
   <img align="center" alt="Pedro-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Pedro-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
