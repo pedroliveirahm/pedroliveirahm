@@ -1,4 +1,4 @@
-### Oii! eu sou o Pedro, futuro desenvolvedor
+### Oii! eu sou o Pedro, desenvolvedor web
 
 - 🎓 Atualmente estou graduando em análise e desenvolvimento de sistemas
 - 🔥  O que estou aprendendo no momento é Node.js 
